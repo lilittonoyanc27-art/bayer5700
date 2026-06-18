@@ -1,0 +1,6 @@
+{
+  "name": "Condicional en Español",
+  "description": "Իսպաներենի պայմանական եղանակի (Condicional) ուսուցողական հարթակ արմատական կանոններով և 6 ինտերակտիվ խաղերով։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
